@@ -22,22 +22,6 @@ Once you've added all the content, scroll to the bottom of the page and click th
 
 Your README will now be visible on the main page of your repository! -->
 
-* 🌳 I’m currently learning Vanilla JavaScript! <br> 
-Actively Going through:
-  - 100 Devs with Leon
-  - The Odin Project: Fundamentals + Full Stack JavaScript
-  - Udemy: The Complete Javascript Course w/ Jonas Schmedtmann  <br>
-
-* 🐾 I’m looking to network and make friends here! <br><br>
-
-* 🌊 2023 Goals: Contribute more to Open Source projects <br><br>
-
-* ☕ Interest: Cats, Coffee, and Coding. <br><br>
-
-* :octocat: Hobbies: Sleeping, Anime/Manga, Gacha Games, Discord, and Reddit. <br><br>
-
-<h2></h2><br>
-
 <p align="center"> 
   <img src="assests/nightlife.gif" alt="Lofi Nightlight scene" /> 
 </p>
@@ -102,28 +86,6 @@ Actively Going through:
 </p> 
 
 ####################################################
-
-## 🏋 About Me
-
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
-class Student:
-
-    def __init__(self):
-        self.name = "Dario De Nardi"
-        self.role = "MSc Student in Computer Science Engineering"
-        self.language_spoken = ["it_IT", "en_US"]
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find interesting my profile :)")
-
-
-me = Student()
-me.say_hi()
-```
 
 ## 📈 Github Stats
 
@@ -318,16 +280,6 @@ me.say_hi()
 
 ####################################################
 
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
-
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
@@ -378,15 +330,6 @@ me.say_hi()
 
 ####################################################
 
-<h2 align="center">About Me</h2>
-
-###
-
-🤖 I love learning about and making machine learning systems.\
-💻 I am constantly seeking out new technologies and learning about them.\
-🤝 I am open to collaborating with others on various projects, particularly those related to machine learning or areas that I have yet to explore.\
-🌟 In my leisure time, I enjoy exploring a variety of media and finding new sources of inspiration for projects.
-###
 
 <h2 align="center">My Stats</h2>
 
@@ -450,30 +393,6 @@ me.say_hi()
 ###
 
 ####################################################
-
-<p>
-  
-Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer, product lead at [@PicnicApp](https://www.linkedin.com/company/get-picnic/mycompany/) and community manager. I specialise in Web Development, JavaScript and Design. I love to network, join new communities and add value ✨
-
-<div>
-<details>
-  <summary>🧑 More about me</summary>
-
-- 🔭 I’m currently on a journey to build **great** things
-
-- 🌱 I’m currently learning **everything** 🤓
-
-- 🤝 I’m looking for help with **finding projects to contribute to!**
-
-- 👨‍💻 All of my projects are available at [miaxu.co](https://www.linkedin.com/in/sergiogarciagamez/)
-
-- 💬 Ask me about **open source, web development, and community management**
-
-- 📫 Reach me out at **contact@miaxu.co**
-
-</details>
-  
-</p>
   
 <!--
 <details>
@@ -527,12 +446,28 @@ Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer, pro
 
 ####################################################
 
-# Olá, eu sou o Rodrigo! Muito prazer! 👋 <img src="./imagens/wave.gif" width="30px">
+<p align="center">
+	# Olá, eu sou o Rodrigo! Muito prazer! 👋 <img src="./imagens/wave.gif" width="30px">
+</p>
 
 ###
-<div>
+
 <p align="center">   
-  <a href="mailto:dario.denardi@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=0078D4"></a>
-  <a href="https://linkedin.com/in/dario-denardi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0078D4"></a>
-    <!--https://dev.to/envoy_/150-badges-for-github-pnk-->
+	<a href="mailto:rodrigov.dcns@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=0078D4"></a>
+	<a href="https://www.linkedin.com/in/rodrigovdcns/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0078D4"></a>
 </p>
+
+###
+
+<p align="center">
+	### 👨🏻‍💻 &nbsp;Sobre mim
+</p>
+
+###
+
+🤖 Adoro aprender e criar sites responsivos.\
+💻 Estou sempre em busca de novas tecnologias e aprendendo sobre elas.\
+🤝 Estou aberto a colaborar com outros em diversos projetos, especialmente aqueles relacionados a áreas que ainda não explorei.\
+🌟 No meu tempo livre, gosto de explorar diferentes formas de mídia e encontrar novas fontes de inspiração para projetos.
+
+###
