@@ -459,11 +459,7 @@ Your README will now be visible on the main page of your repository! -->
 
 ###
 
-<p align="center">
-	### 👨🏻‍💻 &nbsp;Sobre mim
-</p>
-
-###
+### 👨🏻‍💻 &nbsp;Sobre mim
 
 🤖 Adoro aprender e criar sites responsivos.\
 💻 Estou sempre em busca de novas tecnologias e aprendendo sobre elas.\
