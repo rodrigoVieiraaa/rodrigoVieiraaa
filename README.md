@@ -586,4 +586,7 @@ Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer, pro
 
 ####################################################
 
-# Olá, eu sou o Rodrigo! Muito prazer! 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Olá, eu sou o Rodrigo! Muito prazer! 👋 <img src="./imagens/wave.gif" width="30px">
+
+###
+
