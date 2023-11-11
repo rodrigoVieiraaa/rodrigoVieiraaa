@@ -25,6 +25,21 @@
 	<img src="https://skillicons.dev/icons?i=jquery,react,bootstrap,firebase,nodejs,mongodb,redux,electron" alt="habilidades que planejo aprender - logos">
 </div>
 
+###
+
+<!--
+
+### Projetos Destacados
+
+1. [Nome do Projeto 1](link-do-projeto-1)
+   - Breve descrição ou lista de tecnologias utilizadas.
+   - ![Imagem do Projeto 1](caminho/para/imagem-1.png)
+
+2. [Nome do Projeto 2](link-do-projeto-2)
+   - Breve descrição ou lista de tecnologias utilizadas.
+   - ![Imagem do Projeto 2](caminho/para/imagem-2.gif) 
+-->
+
 <div align="center">
 	<h2> <strong> Status do meu Github</strong> <img src="assests/borderseperator.gif"></h2>
 	<img src="https://github-profile-trophy.vercel.app/?username=rodrigoVieiraaa&theme=nord&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Troféus" align="middle"/>
