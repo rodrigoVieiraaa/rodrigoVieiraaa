@@ -22,10 +22,6 @@ Once you've added all the content, scroll to the bottom of the page and click th
 
 Your README will now be visible on the main page of your repository! -->
 
-<p align="center"> 
-  <img src="assests/nightlife.gif" alt="Lofi Nightlight scene" /> 
-</p>
-
 <div align="center">
   <h2> <strong> Actively Learning </strong></h2>
   <img src="https://skillicons.dev/icons?i=bash,git,linux,nim,html,css,js" alt="skills actively learning logos"> <br> 
@@ -446,9 +442,7 @@ Your README will now be visible on the main page of your repository! -->
 
 ####################################################
 
-<p align="center">
-	# Olá, eu sou o Rodrigo! Muito prazer! 👋 <img src="./imagens/wave.gif" width="30px">
-</p>
+# Olá, eu sou o Rodrigo! Muito prazer! <img src="./imagens/wave.gif" width="30px">
 
 ###
 
@@ -467,3 +461,10 @@ Your README will now be visible on the main page of your repository! -->
 🌟 No meu tempo livre, gosto de explorar diferentes formas de mídia e encontrar novas fontes de inspiração para projetos.
 
 ###
+
+<div align="center">
+	<h2> <strong> Aprendendo </strong></h2>
+	<img src="https://skillicons.dev/icons?i=bash,git,linux,html,css,js" alt="habilidades que estou aprendendo - logos"> <br> 
+	<h2> <strong> Planejo aprender </strong></h2>
+	<img src="https://skillicons.dev/icons?i=jquery,react,bootstrap,firebase,nodejs,mongodb,redux,electron" alt="habilidades que planejo aprender - logos">
+</div>
